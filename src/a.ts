@@ -9,3 +9,11 @@ function runAfter1S(fn: () => void) {
 runAfter1S(function(){
     console.log("hi there");
 })
+
+// 
+const greet = (name: string) => 'Hello, ${name}!'; 
+
+// Zod is for runtime type checks (99%)
+
+
+//cgfytfdjsgfj
