@@ -16,5 +16,3 @@ const greet = (name: string) => 'Hello, ${name}!';
 // Zod is for runtime type checks (99%)
 
 
-//cgfytfdjsgfj
-//I want sakshi
