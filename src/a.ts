@@ -14,3 +14,5 @@ runAfter1S(function(){
 const greet = (name: string) => 'Hello, ${name}!'; 
 
 // next line will give error because we are not passing any value to name
+// this is next js.ts
+const greet = (name: string) => 'Hello, ${name}!';
